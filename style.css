@@ -1,5 +1,4 @@
 
-
     * {
         margin: 0;
         padding: 0;
@@ -133,7 +132,7 @@
 
     #icons {
         opacity: 0;
-        animation: aniIcon 2s 2s ease-out forwards;
+        animation: aniIcon 1s 2s ease-out forwards;
     }
 
     @keyframes aniIcon {
@@ -182,5 +181,3 @@
         margin-left: 7px;
         margin-top: 2px;
     }
-     
-
