@@ -1,4 +1,4 @@
-# banner
+#  웹 애니메이션 배너 제작
 https://haeun29.github.io/banner/
 
 # Motivation
